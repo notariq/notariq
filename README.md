@@ -1,7 +1,4 @@
-## Hi there 👋
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+## Hellow
 <!--
 **notariq/notariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
