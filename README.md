@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="mailto:myemail@gmail.com" display="flex">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me..."/>
+  <a href="mailto:hauzanbakri@gmail.com" display="flex">
+    <img src="https://img.shields.io/badge/hauzanbakri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@hauzanbakri@gmail.com"/>
   </a>
 </p>
 
