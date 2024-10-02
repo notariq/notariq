@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/gL6j1Lm5bIQAAAAC/tenor.gif" alt="So silly" width="300" height="300"/>
+  <img src="https://media.tenor.com/K9_q0nhLQyEAAAAM/plink-cat.gif" alt="So silly" width="300" height="300"/>
 </p>
 
 <br />
