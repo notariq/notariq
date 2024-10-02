@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84cc83ea9f56fe6130ce96a405" alt="So silly" width="300" height="300"/>
+  <img src="https://c.tenor.com/gL6j1Lm5bIQAAAAC/tenor.gif" alt="So silly" width="300" height="300"/>
 </p>
 
 <br />
