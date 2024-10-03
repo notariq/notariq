@@ -7,13 +7,7 @@
 
 
 <p align="center">
-  <a href="mailto:hauzanbakri@gmail.com" display="flex">
-    <img src="https://img.shields.io/badge/hauzanbakri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@hauzanbakri@gmail.com"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/K9_q0nhLQyEAAAAM/plink-cat.gif" alt="So silly" width="300" height="300"/>
+  <img src="https://media.tenor.com/K9_q0nhLQyEAAAAM/plink-cat.gif" alt="So silly" width="600" height="600"/>
 </p>
 
 <br />
