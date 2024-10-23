@@ -8,7 +8,7 @@ to contribute to a dynamic team and grow through hands-on experience in a challe
 </div>
 
 ## My Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,svelte,vite,postgres,mongodb,prisma,sequelize,firebase,python,tensorflow,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,postgres,mongodb,prisma,firebase,python,tensorflow,git,docker)](https://skillicons.dev)
 <br />
 
 ## Find me on 🔍
